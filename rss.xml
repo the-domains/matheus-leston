@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[matheus leston]]></title>
         <description><![CDATA[matheus leston]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matheus-leston/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 16:02:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 Nov 2015 16:02:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matheus-leston/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abd6c277-bf9c-4412-8d7d-26ec52edaa63.jpg">]]></description>
+            <link>https://thegrid.ai/matheus-leston/c77d4879-713c-4c06-a923-54cd034a72f5/index.html</link>
+            <guid isPermaLink="false">c77d4879-713c-4c06-a923-54cd034a72f5</guid>
+            <pubDate>Thu, 05 Nov 2015 16:01:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ContracorrentesMarcus Bastos]]></title>
             <description><![CDATA[<article><h1>ContracorrentesMarcus Bastos</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a5460ad-2952-45b2-afff-6a76b08c1645.jpg"></article>]]></description>
-            <link>undefinedcontracorrentesmarcus-bastos/index.html</link>
+            <link>https://thegrid.ai/matheus-leston/contracorrentesmarcus-bastos/index.html</link>
             <guid isPermaLink="false">543f3ca1-ddd3-4b82-b2b2-b59ca93753d6</guid>
             <pubDate>Thu, 05 Nov 2015 16:01:45 GMT</pubDate>
         </item>
